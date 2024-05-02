@@ -1,6 +1,7 @@
 # Certified B-Corporation Investment Index
 
-## For my job @KeeneAdvisors, we wanted to create and track a bespoke index of Certified B-Corporations that investors interested in global leaders in sustainable business practices could follow:
+## For my job @KeeneAdvisors, we wanted to create a bespoke stock index of Certified B-Corporations.
+# The index will appeal to investors who are interested in global leaders in sustainable business practices
 
 Becoming a Certified B-Corporation status is facilitated by the nonprofit [B-Lab]([url](https://usca.bcorporation.net/)). Many Certified B-Corporations are private companies, but there are over 50 public Certified B-Corporations globally as of the beginning of 2024.
 
