@@ -1,0 +1,55 @@
+Ticker,shortName,longName,country,currency,previousClose,impliedSharesOutstanding,marketCap,industry,sector,website,USDExchangeRate,previousCloseUSD,marketCapUSD
+0973.HK,L'OCCITANE,L'Occitane International S.A.,Luxembourg,HKD,30.6,1472169984,43429015552,Household & Personal Products,Consumer Defensive,https://group.loccitane.com,7.83538,3.905362599,5542681472
+NTCO3.SA,GRUPO NATURAON      NM,Natura &Co Holding S.A.,Brazil,BRL,16.09,1383680000,22208063488,Household & Personal Products,Consumer Defensive,https://www.naturaeco.com,5.166796,3.114115595,4298227274
+BFT.WA,BENEFIT,Benefit Systems S.A.,Poland,PLN,2760,2967000,8052567552,Leisure,Consumer Cyclical,https://www.benefitsystems.pl,4.052443,681.0706529,1987089652
+COUR,"Coursera, Inc.","Coursera, Inc.",United States,USD,11.95,157324000,1924072448,Education & Training Services,Consumer Defensive,https://www.coursera.org,1,11.95,1924072448
+WRBY,Warby Parker Inc.,Warby Parker Inc.,United States,USD,12.05,118163000,1462857984,Medical Instruments & Supplies,Healthcare,https://www.warbyparker.com,1,12.05,1462857984
+COCO,"The Vita Coco Company, Inc.","The Vita Coco Company, Inc.",United States,USD,23.38,56929300,1313928192,Beverages - Non-Alcoholic,Consumer Defensive,https://thevitacococompany.com,1,23.38,1313928192
+ARZZ3.SA,AREZZO CO   ON      NM,Arezzo Indústria e Comércio S.A.,Brazil,BRL,51.49,110958000,5880774144,Footwear & Accessories,Consumer Cyclical,https://ri.arezzoco.com.br,5.166796,9.965556991,1138185859
+LMND,"Lemonade, Inc.","Lemonade, Inc.",United States,USD,15.86,70224400,1134826240,Insurance - Property & Casualty,Financial Services,https://www.lemonade.com,1,15.86,1134826240
+VITL,"Vital Farms, Inc.","Vital Farms, Inc.",United States,USD,25.24,41795800,1059105600,Farm Products,Consumer Defensive,https://vitalfarms.com,1,25.24,1059105600
+SOMA3.SA,GRUPO SOMA  ON      NM,Grupo de Moda Soma S.A.,Brazil,BRL,6.09,784747008,4936058880,Apparel Retail,Consumer Cyclical,https://www.somagrupo.com.br,5.166796,1.178680172,955342320.5
+FREY.PA,FREY,Frey SA,France,EUR,27.8,31663700,888817984,REIT - Retail,Real Estate,https://www.frey.fr,0.93858,29.619212,946981593.5
+CONCHATORO.SN,VINA CONCHA Y TORO,Viña Concha y Toro S.A.,Chile,CLP,1180,740371008,8.86812E+11,Beverages - Wineries & Distilleries,Consumer Defensive,https://www.vinacyt.com,952.504567,1.238839204,931031739.5
+1112.HK,H&H INTL HLDG,Health and Happiness (H&H) International Holdings Limited,Hong Kong,HKD,10.08,645561024,6558899712,Packaged Foods,Consumer Defensive,https://www.hh.global,7.83538,1.286472386,837087634.8
+2897.TW,O-BANK CO LTD,"O-Bank Co., Ltd.",Taiwan,TWD,9.76,2716470016,26648571904,Banks - Regional,Financial Services,https://www.o-bank.com,32.609498,0.299299302,817202764.2
+LFG.AX,LIBERTY FG STAPLED [LFG],Liberty Financial Group Limited,Australia,AUD,3.8,303804000,1184835584,Credit Services,Financial Services,https://www.liberty.com.au,1.550405,2.450972488,764210373.4
+AMAL,Amalgamated Financial Corp.,Amalgamated Financial Corp.,United States,USD,22.46,30811400,693879552,Banks - Regional,Financial Services,https://www.amalgamatedbank.com,1,22.46,693879552
+ABB.AX,AUSSIEBAND FPO [ABB],Aussie Broadband Limited,Australia,AUD,3.5,295184992,1062665920,Telecom Services,Communication Services,https://www.aussiebroadband.com.au,1.550405,2.25747466,685411824.7
+MOVI3.SA,MOVIDA      ON      NM,Movida Participações S.A.,Brazil,BRL,7.51,361155008,2615371776,Rental & Leasing Services,Industrials,https://ri.movida.com.br,5.166796,1.453512002,506188317.9
+6088.T,SIGMAXYZ HOLDINGS INC,SIGMAXYZ Holdings Inc.,Japan,JPY,1532,43201300,66099957760,Specialty Business Services,Industrials,https://www.sigmaxyz.com,154.837499,9.894244029,426898898.4
+IBAB.BR,ION BEAM APPLICATIONS,Ion Beam Applications SA,Belgium,EUR,13.26,29171400,384479072,Medical Devices,Healthcare,https://www.iba-worldwide.com,0.93858,14.12772486,409639105.9
+AEF.AX,A ETHICAL FPO [AEF],Australian Ethical Investment Limited,Australia,AUD,4.55,112782000,541353600,Asset Management,Financial Services,https://www.australianethical.com.au,1.550405,2.934717058,349169152.6
+CLSA3.SA,CLEARSALE   ON      NM,ClearSale S.A.,Brazil,BRL,7.76,187926000,1495890944,Software - Infrastructure,Technology,https://www.clearsale.com.br,5.166796,1.501897888,289520032.1
+KMD.NZ,KMD Brands Limited Ordinary Sha,KMD Brands Limited,New Zealand,NZD,0.53,711667008,384300192,Apparel Manufacturing,Consumer Cyclical,https://www.kathmanduholdings.com,1.688932,0.313807779,227540358
+KPG.AX,KELLYPRTNR FPO [KPG],Kelly Partners Group Holdings Limited,Australia,AUD,7,46786800,317250016,Specialty Business Services,Industrials,https://kellypartnersgroup.com.au,1.550405,4.51494932,204623963.4
+VHT.AX,VOLPARA FPO NZ [VHT],Volpara Health Technologies Limited,New Zealand,AUD,1.14,254828992,290505056,Health Information Services,Healthcare,https://www.volparahealth.com,1.550405,0.735291746,187373657.9
+INCLU.BR,INCLUSIO SA/NV,Inclusio SA,Belgium,EUR,13.35,7418590,100150968,Real Estate Services,Real Estate,https://www.inclusio.be,0.93858,14.2236144,106704775.3
+BIRD,"Allbirds, Inc.","Allbirds, Inc.",United States,USD,0.5976,155188992,101152184,Apparel Retail,Consumer Cyclical,https://www.allbirds.com,1,0.5976,101152184
+CVT.NZ,Comvita Limited Ordinary Shares,Comvita Limited,New Zealand,NZD,2.05,70225400,142557552,Packaged Foods,Consumer Defensive,https://www.comvita.co.nz,1.688932,1.213784806,84406922.24
+1346.HK,LEVER STYLE,Lever Style Corporation,Hong Kong,HKD,0.95,645899008,619927040,Apparel Manufacturing,Consumer Cyclical,https://www.leverstyle.com,7.83538,0.121244917,79118950.2
+HLZ.MC,HOLALUZ CLIDOM S.A.,"Holaluz-Clidom, S.A.",Spain,EUR,3,23130800,64373428,Utilities - Renewable,Utilities,https://www.holaluz.com,0.93858,3.196317842,68585978.82
+ALQP.PA,QUADPACK,"Quadpack Industries, S.A.",Spain,EUR,16.6,4382130,63218260,Packaging & Containers,Consumer Cyclical,https://www.quadpack.com,0.93858,17.68629206,67355217.46
+SML.NZ,Synlait Milk Limited (NS) Ordin,Synlait Milk Limited,New Zealand,NZD,0.54,218582000,111476816,Packaged Foods,Consumer Defensive,https://www.synlait.com,1.688932,0.319728681,66004324.63
+GROV,"Grove Collaborative Holdings, I","Grove Collaborative Holdings, Inc.",United States,USD,1.63,38182100,62618644,Household & Personal Products,Consumer Defensive,https://www.grove.co,1,1.63,62618644
+ZVIA,Zevia PBC,Zevia PBC,United States,USD,0.9831,64529600,58057640,Beverages - Non-Alcoholic,Consumer Defensive,https://www.zevia.com,1,0.9831,58057640
+BIO.AX,BIOME AUST FPO [BIO],Biome Australia Limited,Australia,AUD,0.35,218503008,74489800,Packaged Foods,Consumer Defensive,https://www.biomeaustralia.com,1.550405,0.225747466,48045381.69
+MME.AX,MONEYME FPO [MME],MoneyMe Limited,Australia,AUD,0.07,800078016,55205380,Credit Services,Financial Services,https://www.moneyme.com.au,1.550405,0.045149493," $35,607,070 "
+CWEB.TO,CHARLOTTES WEB HOLDINGS INC,"Charlotte's Web Holdings, Inc.",United States,CAD,0.305,156960992,46303492,Drug Manufacturers - Specialty & Generic,Healthcare,https://www.charlottesweb.com,1.370035,0.22262205," $33,797,306 "
+MLMFI.PA,CONDOR TECHNOLOGIES,Condor Technologies NV,Belgium,EUR,12,,27827520,Software - Infrastructure,Technology,https://www.condorscan.com,0.93858,12.78527137," $29,648,533 "
+RETI.MI,RETI,Reti S.p.A.,Italy,EUR,2.04,12710200,24309800,Information Technology Services,Technology,https://www.reti.it,0.93858,2.173496132," $25,900,616 "
+VNT.MI,VANTEA SMART,Vantea SMART S.p.A.,Italy,EUR,1.64,12846500,21402696,Information Technology Services,Technology,https://www.vantea.com,0.93858,1.74732042," $22,803,273 "
+DOX.MI,DOXEE,Doxee S.p.A.,Italy,EUR,2.14,8597810,17883444,Software - Infrastructure,Technology,https://www.doxee.com,0.93858,2.280040061," $19,053,724 "
+VVPR,VivoPower International PLC,VivoPower International PLC,United Kingdom,USD,3.33,3303970,11577924,Solar,Technology,https://vivopower.com,1,3.33," $11,577,924 "
+HAN.MC,"HANNUN, S.A.",Hannun S.A.,Spain,EUR,0.27,31271400,9531054,"Furnishings, Fixtures & Appliances",Consumer Cyclical,https://www.hannun.com,0.93858,0.287668606," $10,154,759 "
+XHS.MI,XENIA HOTELLERIE SOLUTION,Xenia Hôtellerie Solution S.p.A. Società Benefit,Italy,EUR,2.84,3315810,9141960,Lodging,Consumer Cyclical,https://www.xeniahs.com,0.93858,3.025847557," $9,740,203 "
+FLOW.TO,FLOW BEVERAGE CORP,Flow Beverage Corp.,Canada,CAD,0.185,71792800,13281668,Beverages - Non-Alcoholic,Consumer Defensive,https://flowhydration.com,1.370035,0.135033047," $9,694,401 "
+1H2.SI,$ Olive Tree,Olive Tree Estates Limited,Singapore,SGD,0.078,124756000,9035910,Real Estate - Diversified,Real Estate,https://www.olivetreeestates.com,1.36203,0.057267461," $6,634,149 "
+MPR.AX,MPOWER FPO [MPR],MPower Group Limited,Australia,AUD,0.019,343703008,6530357,Solar,Technology,https://www.mpower.com.au,1.550405,0.012254862," $4,212,033 "
+GFI.NZ,Greenfern Industries Limited Or,Greenfern Industries Limited,New Zealand,NZD,0.035,115015000,4025525,Drug Manufacturers - Specialty & Generic,Healthcare,https://gfi.nz,1.688932,0.020723155," $2,383,474 "
+HMGS.TA,HOMEBIOGAS LTD,HomeBiogas Ltd,Israel,ILA,351.6,24829200,83674400,Utilities - Renewable,Utilities,https://www.homebiogas.com,,,
+KCT.L,KIN AND CARTA PLC ORD 10P,Kin and Carta plc,United Kingdom,GBp,129.4,173271008,224212672,Information Technology Services,Technology,https://www.kinandcarta.com,,,
+TENG.L,TEN LIFESTYLE GROUP PLC ORD 0.1,Ten Lifestyle Group Plc,United Kingdom,GBp,70,86440096,57050464,Travel Services,Consumer Cyclical,https://www.tenlifestylegroup.com,,,
+TIME.MI,COMPAGNIA DEI CARAIBI,Compagnia dei Caraibi S.p.A.,Italy,EUR,0.67,,,,,https://www.compagniadeicaraibi.com,0.93858,0.713844318,
+TPX.L,TPXIMPACT HOLDINGS PLC ORD 1P,TPXimpact Holdings plc,United Kingdom,GBp,33,91270096,30119132,Information Technology Services,Technology,https://www.tpximpact.com,,,
+XSG.L,XEROS TECHNOLOGY GROUP PLC ORD ,Xeros Technology Group plc,United Kingdom,GBp,1.45,224995008,3262427,Specialty Industrial Machinery,Industrials,https://www.xerostech.com,,,
